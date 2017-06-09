@@ -1,0 +1,40 @@
+{
+    "name": "comocozy/flarum-ext-auth-naver",
+    "description": "Allow users to log in with Naver.",
+    "type": "flarum-extension",
+    "keywords": ["authentication"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comocozy",
+            "email": "woogyom@comocozy.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Comocozy/flarum-ext-auth-naver/issues",
+        "source": "https://github.com/Comocozy/flarum-ext-auth-naver"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.6",
+        "comocozy/oauth2-naver": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Comocozy\\Auth\\Naver\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Naver Login",
+            "icon": {
+                "image": "icon.svg",
+                "name": "naver",
+                "backgroundColor": "#00c73c",
+                "color": "#fff"
+            }
+        }
+    }
+}
