@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of comocozy/flarum-ext-auth-naver.** Not for installation: use [Packagist](https://packagist.org/packages/comocozy/flarum-ext-auth-naver) or the [upstream repository](https://github.com/Comocozy/flarum-ext-auth-naver).
 
-**0** versions archived · Latest: [`0.1.0-beta.6`](https://github.com/flarchive/comocozy-flarum-ext-auth-naver/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`0.1.0-beta.6`](https://github.com/flarchive/comocozy-flarum-ext-auth-naver/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.6` | 2017-06-09 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/comocozy-flarum-ext-auth-naver/tree/archive/v0.1.0-beta.6) |
 
 Catalog entry: [packages/comocozy-flarum-ext-auth-naver.json](https://github.com/flarchive/archive-index/blob/main/packages/comocozy-flarum-ext-auth-naver.json)
 
